@@ -1,0 +1,6 @@
+- 👋 Hi, I’m Aaron Scott!
+- 👀 I’m interested in AI related topics, fundamentals, and theory. 
+- 🌱 I’m currently learning various AI related topics at the moment. Most recently, im going for my IBM AI Developer Certification
+- 📫 How to reach me | You can Email me at aaronscot2002@gmail.com!
+- 😄 Pronouns: He/Him
+- ⚡ Fun facts: Im a Computer Science Undergraduate with a plan to shoot for a Masters Degree in Data Science in the future. 
