@@ -5,4 +5,4 @@
 - 😄 Pronouns: He/Him
 - ⚡ Education: Im a Computer Science Undergraduate with a plan to shoot for a Masters Degree in Data Science in the future. Aside from this, Ive persued multiple certifications in topics Ive been interested in, and going for many more!
 - 😁 Programming aside, I love to explore artistic endeavours, such as drawing, sculpting, etc.
-- 🤖 My goals in this industry is to make a name for myself in pushing the bounds of AI to its limits.
+- 🤖 My goal in this industry is to make a name for myself in pushing the bounds of AI to its limits.
