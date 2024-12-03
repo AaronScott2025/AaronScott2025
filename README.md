@@ -6,7 +6,7 @@
     <p>🌱 I’m currently learning various AI related topics at the moment. Most recently, im going for my IBM AI Developer Certification</p>
   </ul>  
   <h2>📫 You can Email me at:</h2> 
-   <p>aaronscot2002@gmail.com!</p>
+   <p>aaronscot2002@gmail.com</p>
   <h2> 😄 Pronouns </h2>
    <p>he/him</p>
   <h2>⚡ Education:</h2> 
