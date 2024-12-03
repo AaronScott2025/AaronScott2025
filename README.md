@@ -5,7 +5,8 @@
     <li>👀 I’m interested in AI related topics, fundamentals, and theory.</li>
     <li>🌱 I’m currently learning various AI related topics at the moment. Most recently, im going for my IBM AI Developer Certification</li>
   </ul>  
-  <h2>📫 You can Email me at aaronscot2002@gmail.com!</h2>
+  <h2>📫 You can Email me at:</h2> 
+   <p>aaronscot2002@gmail.com!</p>
   <h2> 😄 Pronouns </h2>
    <p>he/him</p>
   <h2>⚡ Education:</h2> 
