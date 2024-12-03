@@ -11,6 +11,7 @@
   <h2>⚡ Education:</h2> 
    <p>Im a Computer Science Undergraduate with a plan to shoot for a Masters Degree in Data Science in the future. Aside from this, Ive persued multiple certifications in topics Ive been interested in, and going for many more!</p>
   <h2>😁 Programming aside, I love to explore artistic endeavours, such as drawing, sculpting, etc.</h2>
-  <h2>🤖 My goal in this industry is to make a name for myself in pushing the bounds of AI to its limits.</h2>
+  <h2>🤖 My goal in this industry</h2>
+   <p>I want to make a name for myself in pushing the bounds of AI to its limits.</p>
 </body>
 </html>
