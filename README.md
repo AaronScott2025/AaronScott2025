@@ -10,7 +10,9 @@
       <p>aaronscot2002@gmail.com</p>
     </ul> 
   <h2> 😄 Pronouns </h2>
+   <ul>
    <p>he/him</p>
+   </ul>
   <h2>⚡ Education:</h2> 
    <ul>
    <p>Im a Computer Science Undergraduate with a plan to shoot for a Masters Degree in Data Science in the future. Aside from this, Ive persued multiple certifications in topics Ive been interested in, and going for many more!</p>
