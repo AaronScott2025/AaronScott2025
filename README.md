@@ -3,7 +3,8 @@
    <h1>👋 Hi, I’m Aaron Scott!</h1>
   <ul>
     <p>👀 I’m interested in AI related topics, fundamentals, and theory.</p>
-    <p>🌱 I’m currently learning various AI related topics at the moment. Most recently, im going for my IBM AI Developer Certification</p>
+    <p>🌱 Certified AI Developer (IBM Cert / AWS Cert).</p>
+    <p> Current Tech Lead at PMA </p>
   </ul>  
   <h2>📫 You can Email me at:</h2> 
    <ul>
